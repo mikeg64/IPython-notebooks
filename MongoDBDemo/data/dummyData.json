@@ -1,0 +1,34 @@
+{ "people":[
+{
+	"Name": "Quinn, Alfonso Y.",
+	"Age": 61,
+	"Country": "Northern Mariana Islands",
+	"Location": "-20.77447, -11.73429"
+},
+{
+	"Name": "Dominguez, Jasmine S.",
+	"Age": 31,
+	"Country": "Comoros",
+	"Location": "-61.56115, -147.43152"
+},
+{
+	"Name": "Potts, Destiny J.",
+	"Age": 24,
+	"Country": "Nicaragua",
+	"Location": "-54.60926, 126.32675"
+},
+{
+	"Name": "Morgan, Tucker S.",
+	"Age": 41,
+	"Country": "Grenada",
+	"Location": "29.92717, 169.26014"
+},
+{
+	"Name": "Mcintyre, Caesar U.",
+	"Age": 40,
+	"Country": "United States",
+	"Location": "-25.48981, 42.39013"
+}    
+    
+    ]
+}
